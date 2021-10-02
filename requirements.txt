@@ -18,5 +18,3 @@ sklearn==0.0
 threadpoolctl==3.0.0
 Werkzeug==2.0.1
 wincertstore==0.2
-© 2021 GitHub, Inc.
-Terms
